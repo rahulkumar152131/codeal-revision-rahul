@@ -1,0 +1,19 @@
+body{
+    background-color: cyan;
+    text-align: center;
+}
+footer{
+    height: 70px;
+    position: sticky;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    padding-left: 50px;
+    background-color: aquamarine;
+
+}
+
+ul{
+    list-style: none;
+}
